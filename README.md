@@ -9,10 +9,15 @@ The aim of this project is to analyse patient appointment data and identify key 
 ### KEY FINDINGS
 
 •	The overall missed appointment rate is 20%. This means 1 in 5 appointments are missed.
+
 •	Waiting time has a strong impact on missed appointments. Patients scheduled within 7 days have a missed rate of 14%, while for those waiting more than a week it rises sharply to over 30%.
+
 •	 Younger patients have the highest missed rates (0–17 age group, 22%, and 18–34 age group, 24%, respectively). This decreases to less than 17% for patients aged 50 and above.
+
 •	The highest missed appointment rate is on Saturday (23%), while the lowest is on Thursday (19%).
+
 •	Patients who receive SMS reminders have an overall higher rate of missed appointments.  This suggests that reminders may be used for patients who are already more likely to miss appointments.
+
 •	Patients with a short waiting time who also received SMS reminders had double the rate of missed appointments compared to those who didn't receive an SMS.  However, for longer waiting times, SMS reminders were associated with  a significant decrease in missed appointments.  This suggests that SMS reminders may be more effective for patients with longer waiting time.
 
 
